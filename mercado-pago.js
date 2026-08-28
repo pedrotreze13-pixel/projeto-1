@@ -1,2 +1,6 @@
 const m  = "mercado- pago"
-console.log(m)
+const n  = "mercado- pago"
+console.log(m)  
+console.log(n)
+const p = pagamento
+console.log(p)
